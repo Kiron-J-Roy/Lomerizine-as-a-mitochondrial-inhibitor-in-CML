@@ -1,7 +1,8 @@
 # Lomerizine-as-a-mitochondrial-inhibitor-in-CML
 
-Nutrient-sensitizing drug repurposing screen identifies lomerizine as a 1 mitochondrial metabolism inhibitor of chronic myeloid leukemia 
+ This repository contains the files and scripts used for the pre-processing and downstream analysis (main figures 4, 5a-i and supplementary figures 5-7) of the single cell macrophage dataset.  
 
+### <ins> Nutrient-sensitizing drug repurposing screen identifies lomerizine as a 1 mitochondrial metabolism inhibitor of chronic myeloid leukemia </ins>
 Authors: Ahmed Khalaf, Lucie de Beauchamp, Eric Kalkman, Kevin Rattigan, Ekaterini Himonas, Joe Jones, Daniel James, Engy Shokry Abd Shokry, Mary T. Scott, Karen Dunn, 5 Saverio Tardito, Mhairi Copland, David Sumpton, Emma Shanks, G. Vignir Helgason
 
 Affiliations:
