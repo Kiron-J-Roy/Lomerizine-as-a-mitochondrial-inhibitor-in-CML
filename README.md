@@ -1,6 +1,5 @@
-# Lomerizine-as-a-mitochondrial-inhibitor-in-CML
-
- This repository contains the code and source data used to generate figures 2a, 4a and b.
+### <ins> Repository overview
+This repository contains the code and source data used to generate figures 2a, 4a and b.
 
 **Trancriptomics R** contains the R code used to process E-MTAB-2581, E-MTAB-2594 and GSE216837 starting from either the .CEL files or from the count matrix. 
 **Differential expression tables** contains the differential expression tables generated from the scripts in **Trancriptomics R** (E-MTAB-2581, E-MTAB-2594 and GSE216837) used to generate figures 4a and b.
