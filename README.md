@@ -5,7 +5,7 @@ This repository contains the code and source data used to generate figures 2a, 4
 
 **Differential expression tables** contains the differential expression tables generated from the scripts in **Trancriptomics R** (E-MTAB-2581, E-MTAB-2594 and GSE216837) used to generate figures 4a and b. <br />
 
-**GSEA** contains the GSEA output files used to plot figures 2a. <br />
+**GSEA** contains the input .gct and .gmt files, and the results from the GSEA used to plot figure 2a. <br />
   
 ### <ins> Nutrient-sensitizing drug repurposing screen identifies lomerizine as a 1 mitochondrial metabolism inhibitor of chronic myeloid leukemia </ins>
 Authors: Ahmed Khalaf, Lucie de Beauchamp, Eric Kalkman, Kevin Rattigan, Ekaterini Himonas, Joe Jones, Daniel James, Engy Shokry Abd Shokry, Mary T. Scott, Karen Dunn, Saverio Tardito, Mhairi Copland, David Sumpton, Emma Shanks, G. Vignir Helgason
